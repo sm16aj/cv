@@ -4,7 +4,8 @@ body {
 }
 
 hr {
-
+    visibility: hidden;
+/*
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
